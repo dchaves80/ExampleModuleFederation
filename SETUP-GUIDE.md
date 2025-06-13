@@ -1,5 +1,11 @@
 # 🚀 Guía Paso a Paso: Crear Host-App desde Cero
 
+**👨‍💻 Autor:** David Leonardo Chaves  
+**📅 Creado:** 2025  
+**🎯 Objetivo:** Crear aplicación host con Module Federation desde cero
+
+---
+
 Esta guía te ayudará a crear una aplicación **Host (Shell)** con **Module Federation** desde cero, incluyendo todos los comandos y configuraciones necesarias.
 
 ## 📋 Prerequisitos

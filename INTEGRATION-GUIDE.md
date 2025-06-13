@@ -1,5 +1,11 @@
 # 🔗 Guía de Integración: Conectar Remote Apps a Host
 
+**👨‍💻 Autor:** David Leonardo Chaves  
+**📅 Creado:** 2025  
+**🎯 Objetivo:** Integrar aplicaciones remotas con aplicación host
+
+---
+
 Esta guía te enseña **cómo conectar aplicaciones remotas existentes a una aplicación host** utilizando **Module Federation**, cubriendo todos los aspectos de configuración, consumo y solución de problemas.
 
 ## 📋 Prerequisitos

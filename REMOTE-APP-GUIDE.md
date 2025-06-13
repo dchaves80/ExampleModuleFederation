@@ -1,5 +1,11 @@
 # ⚛️ Guía Completa: Crear Aplicaciones Remotas
 
+**👨‍💻 Autor:** David Leonardo Chaves  
+**📅 Creado:** 2025  
+**🎯 Objetivo:** Crear aplicaciones remotas para Module Federation
+
+---
+
 Esta guía te enseñará a crear **aplicaciones remotas (microfrontends)** que pueden ser consumidas por una aplicación host a través de **Module Federation**.
 
 ## 📋 Prerequisitos

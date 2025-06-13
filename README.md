@@ -1,5 +1,11 @@
 # 🏗️ Arquitectura de Microfrontends con Module Federation
 
+**👨‍💻 Autor:** David Leonardo Chaves  
+**📅 Creado:** 2025  
+**🔧 Tecnologías:** React 18, Webpack 5, Module Federation
+
+---
+
 > 📖 **¿Nuevo en Module Federation?** Lee nuestra **[Guía Paso a Paso: Crear Host-App desde Cero](./SETUP-GUIDE.md)** para aprender cómo construir todo el sistema desde el inicio con comandos detallados.
 > 
 > ⚛️ **¿Quieres crear aplicaciones remotas?** Consulta nuestra **[Guía para Crear Aplicaciones Remotas](./REMOTE-APP-GUIDE.md)** con ejemplos completos de microfrontends independientes.
